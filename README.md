@@ -32,3 +32,10 @@
 - https://sebastianraschka.com/Articles/2014_kernel_pca.html
 - https://atiulpin.wordpress.com/2015/04/02/a-tutorial-on-kernel-principal-component-analysis/
 - https://github.com/kitayama1234/MATLAB-Kernel-PCA/blob/master/KernelPca.m
+
+## SVM and Optimization packaages
+- https://xavierbourretsicotte.github.io/SVM_implementation.html
+- https://towardsdatascience.com/support-vector-machines-dual-formulation-quadratic-programming-sequential-minimal-optimization-57f4387ce4dd
+- https://pythonprogramming.net/soft-margin-kernel-cvxopt-svm-machine-learning-tutorial/
+- https://python.hotexamples.com/examples/quadprog/-/solve_qp/python-solve_qp-function-examples.html
+- http://www.ece.northwestern.edu/local-apps/matlabhelp/toolbox/optim/quadprog.html
