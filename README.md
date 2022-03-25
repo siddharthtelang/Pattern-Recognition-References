@@ -39,3 +39,6 @@
 - https://pythonprogramming.net/soft-margin-kernel-cvxopt-svm-machine-learning-tutorial/
 - https://python.hotexamples.com/examples/quadprog/-/solve_qp/python-solve_qp-function-examples.html
 - http://www.ece.northwestern.edu/local-apps/matlabhelp/toolbox/optim/quadprog.html
+
+## Pattern Recognition Books
+- https://drive.google.com/drive/folders/1GJWdDjaONksIxmlT-WjNm4gGwuOx0UEB?usp=sharing
